@@ -1,6 +1,6 @@
 const URL = 'https://career.rollangle.com/cv-submit'
 const facebookAnswer = "If my career is hackable, then the extremely fast pace of AI development should be the one of the biggest expoits which i can use it right now. Instead of seeing AI as a threadt that might replace junior developers. Probably treat it as a accelerator is better in the era and hack the timeline to learn faster."
-const facebookExplanation = ""
+const facebookExplanation = "As a fresh Computer Science graduate, I view the rapid rise of AI as a major opportunity to accelerate my career. While it may feel intimidating as it automates some tasks, I treat AI as a powerful accelerator. I use tools like GitHub Copilot and Claude daily to learn faster and ship ReactJS & full-stack projects quicker. This hackable career mindset helps me focus on high-value skills AI can't easily replace, like system design and understanding client needs. I'm confident this approach will help me grow stronger and deliver real value.";
 
 const applicationData = {
     "name": "Wong Sin Ngai",
