@@ -22,7 +22,9 @@ async function applciationSubmission(){
             body: JSON.stringify(applicationData)
         });
         const result = await res.json();
-        console.log(`Response: ${result}`)
+        if (result.ok){
+            console.log(res);
+        }
     } catch (e){
         console.error(e.message);
     }
